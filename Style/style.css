@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+    font-family: 'Courier New';
+    color: rgb(72, 24, 117);
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Courier New';
+    color: rgb(72, 24, 117);
+    border: 1px;
+    border-radius: 20px;
+    padding: 5px;
+    background-color: rgba(245, 245, 220, 0.877);
+    width: 400px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+blockquote {
+    font-family: 'Courier New';
+}
+
+table {
+    text-align: center;
+    border-color: rgb(72, 24, 117);
+}
+
+thead th {
+    font-family: 'Courier New';
+    padding: 3px;
+}
+
+tbody td {
+    font-family: 'Courier New';
+    padding: 3px;
+}
+
+ol,
+b,
+a {
+    font-family: 'Courier New';
+}
