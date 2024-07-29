@@ -25,17 +25,19 @@ blockquote {
 
 table {
     text-align: center;
-    border-color: rgb(72, 24, 117);
+    border-color: rgb(90, 35, 145);
 }
 
 thead th {
     font-family: 'Courier New';
-    padding: 3px;
+    background-color: rgb(179, 143, 212);
+    color: white;
+    padding: 5px;
 }
 
 tbody td {
     font-family: 'Courier New';
-    padding: 3px;
+    padding: 5px;
 }
 
 ol,
